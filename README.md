@@ -1,5 +1,6 @@
 ## Hi there, I'm Fiorella 👋
 
+[![Fio0407 GitHub stats](https://github-readme-stats.vercel.app/api?username=Fio0407)](https://github.com/Fio0407/github-readme-stats)
 <!--
 **Fio0407/Fio0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
