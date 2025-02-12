@@ -56,6 +56,6 @@
 </div>
 
 <h2 style="color: #ff69b4; text-align: center;">Contact</h2>
-<p style="text-align: center;">📧 Contact me: <a href="mailto:fiorellajp156@gmail.com" style="color: #ff69b4;">Email</a> or <a href="https://www.linkedin.com/in/fiorellajarama/" style="color: #ff69b4;">Linkedin</a></p>
+<p style="text-align: center;">📧 Contact me: <a href="mailto:fiorellajp156@gmail.com" style="color: #ff69b4;">Email</a> or <a href="https://www.linkedin.com/in/fiorellajarama/" style="color: #ff69b4;">Linkedln</a></p>
 
 </div> 
